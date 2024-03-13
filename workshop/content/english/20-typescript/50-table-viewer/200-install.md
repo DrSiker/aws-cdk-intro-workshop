@@ -22,4 +22,8 @@ found 0 vulnerabilities
 
 ----
 
+For  "runtime: lambda.Runtime.NODEJS_16_X" or higher(>NODEJS_16_X), you’ll need to install the npm module:
+
+npm i cdk-dynamo-table-viewer
+
 Now we are ready to add a viewer to our app.
